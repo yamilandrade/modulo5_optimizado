@@ -1,2 +1,6 @@
-# Modulo5
-Proyecto Angular
+# ListaDeTareas
+Install Project:
+npm i
+
+Run:
+ng serve -o
