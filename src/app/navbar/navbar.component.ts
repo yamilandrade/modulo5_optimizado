@@ -20,4 +20,7 @@ export class NavbarComponent {
   goToDetail() {
     this.router.navigate(['/detail']);
   }
+  goToContact() {
+    this.router.navigate(['/contact']);
+  }
 }
