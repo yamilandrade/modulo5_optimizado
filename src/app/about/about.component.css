@@ -1,3 +1,16 @@
 mat-toolbar {
   display: grid;
 }
+div {
+  display: flex;
+  justify-content: center;
+}
+.example-card {
+  max-width: 400px;
+  padding: 20px;
+}
+
+.example-header-image {
+  background-image: url('https://media.istockphoto.com/id/178019074/es/foto/flamy-s%C3%ADmbolo.jpg?s=612x612&w=0&k=20&c=NjTWYFlwbFXKLtnO0YRCfcD5sdpbbrKtF8FFUXhcecM=');
+  background-size: cover;
+}
