@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "modulo5optimizado",
     "public": "dist/todo-app/browser",
     "ignore": [
       "firebase.json",
